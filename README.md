@@ -2,8 +2,8 @@
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
 
-- Run *foundation update* to check 
-- Run *npm update -g foundation-cli* to update
+- Run `foundation update* to check`
+- Run `npm update -g foundation-cli` to update
 
 ## Zurb Template
 
@@ -13,7 +13,7 @@ FI's ZURB Template for use with [Foundation for Sites](http://foundation.zurb.co
 - Sass compilation and prefixing
 - JavaScript module bundling with webpack
 - Built-in BrowserSync server
-- For production builds:
+- For production builds:, 
   - CSS compression
   - JavaScript compression
   - Image compression
@@ -28,7 +28,6 @@ FI's ZURB Template for use with [Foundation for Sites](http://foundation.zurb.co
 - I'm eliminating what I don't use starting with Abide (also elimintating the references below)
 _ Comment out JS src/assets/js/app.js
 - Commment out SCSS src/assets/scss/app.scss
-
 
 ## Remember!
 
