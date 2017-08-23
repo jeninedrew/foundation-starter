@@ -2,7 +2,7 @@
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
 
-- Run `foundation update* to check`
+- Run `foundation update` to check
 - Run `npm update -g foundation-cli` to update
 
 ## Zurb Template
